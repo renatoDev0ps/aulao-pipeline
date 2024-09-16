@@ -1,0 +1,2 @@
+# aulao-pipeline
+Pipeline argocd
